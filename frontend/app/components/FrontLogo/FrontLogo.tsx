@@ -171,7 +171,7 @@ const FrontLogo = () => {
                         style={{ marginTop: "20vh" }} // Moves logo down to avoid being hidden by navbar
                     />
                     <p className="text-lg sm:text-sm text-white opacity-90 font-medium">
-                    The BYTE (Build Your Technical Expertise) Club, established by the Google Developer Student Club (GDSC) NIE core team [23-24]
+                    The BYTE (Build Your Technical Expertise) Club, established by the Google Developer Student Club (GDSC) of National Institute Of Engineering core team [23-24]
                     </p>
                 </div>
 
